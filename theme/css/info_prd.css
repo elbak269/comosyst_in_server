@@ -1,0 +1,186 @@
+
+/*@media(min-width:350px){
+.cont_d{
+width: 350px;}
+}
+.cont_d{
+  margin: auto;
+}
+*/
+
+body{
+/*  font-family: 'Recursive', sans-serif;
+  font-family: 'Lobster', cursive; */
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+}
+
+ h1,h3,h2,h4 ,h5{
+   color:  #5ae4a8  !important;
+}
+a{
+  color: black;
+}
+p{
+  margin-top: 10px;
+  margin:10px;
+}
+.div_isind_col{
+  margin: auto;
+}
+.div_isind_col p{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+._img_cont{
+  max-width: 400px;
+  max-height: 400px;
+  margin: auto;
+}
+
+.bg-dark {
+  /*  background-color: #320057!important;  */
+}
+
+.navbar-dark .navbar-nav .nav-link{
+   /* color: #e6e6e6 !important; */
+
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  /* color: white !important; */
+
+}
+
+.div_isind_col{
+  border: 1px solid #eee;
+  padding: 10px;
+}
+.div_for{
+  text-align: center;
+border: 1px solid #dee2e6;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.div_for h5{
+  font-weight: bolder;
+  color: #0dba84;
+
+}
+
+.fiv_form{
+  border: 1px solid #dee2e6;
+padding: 10px;
+}
+
+.fiv_form h6{
+  margin-bottom: 15px;
+}
+
+.alert{
+  margin: 10px;
+  display: none;
+}
+
+.offer_cams{
+border: 1px solid #dee2e6;
+padding: 10px;
+}
+
+.div_ben_cams{
+  padding: 5px;
+
+}
+.div_ben_cams h5,p{
+  color: black !important;
+}
+.img_er__{
+  max-width: 100%;
+  max-height:  100%;
+}
+.div_img{
+  border: 1px solid #eee;
+  padding: 5px;
+}
+.categoty{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #eee;
+  padding: 10px;
+}
+.categoty img{
+  max-width: 100%;
+  max-height: 100%;
+    border: 1px solid #eee;
+    margin: auto;
+}
+
+.stor_div img{
+  max-width: 100%;
+  max-height: 100%;
+    border: 1px solid #eee;
+
+}
+
+.div_sale  img{
+  max-width: 100%;
+  max-height: 100%;
+    border: 1px solid #eee;
+}
+
+.buy_div  img{
+  max-width: 100%;
+  max-height: 100%;
+    border: 1px solid #eee;
+}
+
+
+.categoty ,.stor_div ,.div_sale ,.buy_div ,.compt_div , .raport_div ,.raport_div ,.emplo_div  {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #eee;
+  padding: 5px;
+}
+.categoty ,.stor_div ,.div_sale ,.buy_div ,.raport_div , .compt_div, .raport_div,.emplo_div h5{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.compt_div img{
+  max-width: 100%;
+  max-height: 100%;
+    border: 1px solid #eee;
+}
+.raport_div img{
+  max-width: 100%;
+  max-height: 100%;
+  border: 1px solid #eee;
+}
+.raport_div img{
+  max-width: 100%;
+  max-height: 100%;
+    border: 1px solid #eee;
+
+
+}
+
+.di_con_{
+  margin: auto;
+}
+
+.featue{
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border: 2px solid #eee;
+  padding: 10px;
+}
+
+.footer .col_footer__{
+  /*border: 1px solid #320057!important;
+  border-radius: 3px; */
+}
+h3{
+  margin-bottom: 15px !important;
+}

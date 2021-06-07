@@ -1,0 +1,193 @@
+img{
+  width: 100%;
+}
+
+
+.first_header_div{
+width: 100%;
+margin-top: 10px;
+padding: 3px;
+}
+
+
+@media(min-width:765px){
+
+}
+.first_header_div{
+
+}
+
+.super_container{
+  background-color: #d5f7e6;
+}
+
+ .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
+.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10,
+.col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6,
+.col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2,
+.col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12,
+ .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8,
+ .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.super_container li{
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+.div_img_prop{
+  width: 387.5px;
+  height: 382.2px;
+  float: left;
+}
+
+.div_inside_col_ofers{
+  padding: 10px;
+}
+
+.div_inside_col_ofers .text-success{
+  color: #1a2e35 !important;
+
+}
+/*
+.super_ofer_div{
+  margin: auto;
+  text-align: center;
+ */
+
+
+.super_ofer_div .row div{
+  margin: 0px auto;
+}
+
+
+.border-success {
+    border-color: #5ae4a8 !important;
+}
+
+.card-header{
+  background-color: #5ae4a8 ;
+}
+
+.border-success{
+  margin: auto;
+}
+
+a:-webkit-any-link{
+  text-decoration: none;
+}
+a{
+      color: #1a2e35;
+}
+
+
+
+.div_ecomerce_{
+  border: 1px solid #5ae4a8;
+  background-color: #5ae4a8;
+  width: 100%;
+  border-radius: 5px;
+}
+
+@media(min-width:765px){
+  .btn_ecomerce{
+    float: right;
+  }
+
+}
+
+.div_ecomerce_ .btn{
+  background-color: #f38a00;
+  text-align: center;
+  color: white;
+  margin: auto;
+  display: block;
+}
+.div_btn_ecom{
+  padding: 10px;
+  margin: auto;
+}
+
+.btn_ecomerce:hover{
+  background-color: #f5ad4f;
+}
+
+
+.col_ecomer{
+  margin-top: 10px;
+}
+
+.inside_col_cames{
+  border: 1px solid #eee;
+  padding: 5px;
+}
+.img_cams{
+  max-width: 100%;
+max-width: 100%;}
+
+.col___cams{
+  margin: auto;
+}
+
+.offer_cams p{
+  color: black !important;
+}
+.div_prc{
+  padding: 10px;
+  border: 1px solid #eee;
+  background-color: #5ae4a8;
+padding: 10px;
+border: 1px solid #eee;
+border-radius: 14px;
+margin-top: 5px;
+}
+.div_pric_erp{
+  padding: 10px;
+  border: 1px solid #eee;
+  background-color: #5ae4a8;
+padding: 10px;
+border: 1px solid #eee;
+border-radius: 14px;
+margin-top: 5px;
+}
+.div_pric_erp h4{
+  color: black;
+  font-weight: bolder;
+}
+
+.div_prc h4{
+  color: black;
+}
+
+.div_pric_web{
+padding: 10px;
+border: 1px solid #eee;
+background-color: #5ae4a8;
+padding: 10px;
+border: 1px solid #eee;
+border-radius: 14px;
+margin-top: 5px;
+}
+.div_pric_web h4{
+  color: black;
+  font-weight: bolder;
+}
+
+.row_ofers__ li{
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 15PX;
+}
+.row_erp div{
+  margin: auto;
+}
+
+.div_img_prop{
+  max-width: 100%;
+  max-height: 100%;
+}
+.div_img_prop img{
+  max-width: 100%;
+  max-height: 100%;
+}

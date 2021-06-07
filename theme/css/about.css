@@ -1,0 +1,104 @@
+.img_bussin{
+  width: 100%;
+}
+
+.div_ins_col__img{
+  border: 1px solid red;
+  border-radius: 6px;
+}
+
+
+
+.div_ins_col__img {
+    padding: 10px;
+    border: 7px solid #000000;
+    border-radius: 50%;
+    TEXT-ALIGN: center;
+    height: 103px;
+    width: 103px;
+    margin: 4px auto;
+}
+
+.div_ins_col__{
+  border: 7px inset #5ae4a8;
+  border-radius: 3px;
+  padding: 5px;
+
+}
+
+.box{
+  position:relative;
+  width: 293px;
+  height: 164px;
+  transform-style:preserve-3d;
+  transition: transform 1s;
+  margin: auto;
+}
+
+.box:hover{
+  transform: rotateY(-180deg);
+}
+
+.box .face{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  backface-visibility: hidden;
+}
+
+.box .back{
+  transform: rotateY(180deg);
+}
+
+.container{
+  perspective: 600px;
+}
+
+.box p{
+  font-size: 14px;
+}
+
+.cont_r__{
+  margin-top: 10px;
+}
+
+.cont_r__ .col-sm-12 , .col-md-6 , .col-lg-4 , .col-xlg-3{
+  margin: 5px auto;
+}
+
+.our_mess{
+  width: 100%;
+  height: 100%;
+  background-color: #5ae4a8;
+}
+
+.bor_clic{
+  position: relative;
+  background-color: #4dcc95;
+  border: 1px solid #4dcc95;
+  padding: 5px;
+  margin-bottom: 9px;
+}
+
+.bor_clic .fa-chevron-down ,.fa-chevron-up{
+  /* float: right; */
+  position: absolute;
+  right: 3px;
+  top: 13px;
+}
+
+.our_mess .col-md-2 , .col-lg-6{
+  margin: auto;
+}
+
+.bor_clic_cont p{
+  margin-top: 3px;
+}
+.our_mess{
+  padding: 5px;
+}
+
+.fa-chevron-up , .fa-chevron-down{
+  cursor: pointer;
+}

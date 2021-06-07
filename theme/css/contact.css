@@ -1,0 +1,107 @@
+.ins_row__{
+  padding: 5px;
+    border: 1px solid #5ae4a8;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.div_img_is_ro{
+  border: 1px solid #5ae4a8;
+    border-radius: 23px 5px;
+    width: 65px;
+    margin: 3px auto;
+}
+
+.div_call_us_{
+  background-color: #5ae4a8;
+}
+
+.div_in_number span{
+  display: block;
+}
+.div_ins_info{
+  background-color: white;
+}
+
+.div_ins_info {
+    padding: 6px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 22px;
+    margin: 22px;
+  }
+.cont_forms input,textarea{
+  margin-bottom: 5px;
+}
+.div_call_us_{
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.p_co{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 15px;
+}
+
+.div_call_us_{
+  padding: 5px;
+}
+
+
+.row_infor{
+  margin-top: 5px;
+}
+
+.row_con_imgs .col-md-12 , .col-lg-6 , .col-xl-4{
+  margin-bottom: 7px;
+}
+
+
+.alert-danger  {
+  position: absolute;
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+    width: 300px;
+    height: 200px;
+
+}
+
+ .alert-success {
+  position: absolute;
+    border-color: #f5c6cb;
+    margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+    width: 300px;
+    height: 200px;
+
+}
+
+
+.inside_alert , .inside_alert_sucs{
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 15px;
+  display: none;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+
+}
+
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map{
+  height: 400px;
+  height: 400px;
+}
