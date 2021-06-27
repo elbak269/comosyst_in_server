@@ -143,6 +143,28 @@ include("init.php");
               </div>
             </div>
 
+
+            <div class="col-md-12 col-lg-6 col-xl-4">
+              <div class="con_serve">
+                       <div class="img_par text-center">
+                          <img class="img_app_po" src="<?php echo $img."paypal.png" ?>" alt="">
+                       </div>
+                       <p class="text-center"><strong> <?php echo "Paypal" ?> </strong></p>
+                       <div class="border_botom"> </div>
+
+                         <p class="text-center">
+                           Achetez et vendez du crédit Paypal rechargez votre compte pour le paiement et les achats depuis n'importe quel endroit dans le monde
+                          </p>
+
+                          <div class="border_botom"></div>
+                          <div class="div_btn_more">
+                            <p class="read_mo_mob_comoapp"> <strong> <?php echo lang("ReadMore") ?> <i class="fas fa-arrow-right"></i> </strong></p>
+                          </div>
+
+
+              </div>
+            </div>
+
     </div>
 
   </div>

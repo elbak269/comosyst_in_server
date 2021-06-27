@@ -105,25 +105,8 @@ foreach ($erp_pro as  $value) {
 
 
 
-<div class="div_ecomerce_">
-  <div class="row">
-    <div class="col-sm-12 col-md-9 ">
-      <div class="col_ecomer">
-        <p class="text-center">
-          <strong>
-          Posséder une boutique en ligne et voir les produits et commencer à vendre
-           en ligne et lier les magasins pour normaliser pour terminer la vente par
-           téléphone et payer en ligne augmenter vos ventes maintenant
-           </strong>
-         </p>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-3 ">
-      <div class="col_ecomer div_btn_ecom" style="margin: auto;">
-        <button class="btn  btn_ecomerce"  type="button" name="button">Ecomerce</button>
-      </div>
-    </div>
-  </div>
+<div class="div_ecomerce_ text-center">
+      <a class="text-center"  class=""  href="https://www.comoshope.com"name="button"> <strong> <i class="fa fa-store-alt"></i> Achetez sur la boutique en ligne Comoshope.com </strong>  </a>
 </div>
 
 

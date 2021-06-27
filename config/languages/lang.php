@@ -686,7 +686,8 @@ ont été évalués, certifiés et/ou inspectés par des institutions
 	"Remote_monitoring"                                    =>"Surveillance à distance via téléphone mobile et navigateur en ligne",
 	"features"                                             => "Caractéristiques",
 	"Benefit_instal_cam"                                             =>  "Les avantages Des Caméras De Surveillance",
-	"erp"                                                            => "Progiciel De Gestion Intégré "
+	"erp"                                                            => "Progiciel De Gestion Intégré ",
+	"news"                                                           => "Actualités"
 
 
 

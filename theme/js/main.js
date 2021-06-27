@@ -188,7 +188,7 @@ function get_erp_products(){
    res += '  <div class="col-sm-12 col-md-6 col-lg-4 col-lg-3 col_erdp">';
    res += '<a href="info_product.php?ERP=comoapp&product_id='+data[i].Product_ID +'">';
    res += '    <div class="card border-secondary mb-3" style="max-width: 18rem;">'
-   res += '      <div class="card-header text-center"><?php echo lang("comoapp"); ?></div>';
+   res += '      <div class="card-header text-center">comoapp</div>';
    res +=  '      <div class="card-body text-secondary">';
    res += '        <div class="div_img_erd_">';
    res += '           <img src="'+$("#img__in").val()+data[i].Product_Img+'"  class="rdp_img"alt="">';

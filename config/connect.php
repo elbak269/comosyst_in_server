@@ -2,7 +2,7 @@
 
 $dsn = "mysql:host=localhost;dbname=comosyst";
 $user = "root";
-$pass ="Comores12345";
+$pass ="";
 $option = array(
 PDO:: MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8",);
 try{
